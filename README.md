@@ -13,6 +13,9 @@
 2 - Instale as dependências
 - `npm install`
 
+3 - Nesse Projeto existem 2 branchs a branch Main e a branch gabarito
+- Depois de clonar e instalar as dependências, crie sua branch e bons estudos!
+
 # Requisitos #
 
 ## 1. Faça o setup inicial do Redux criando as seguintes pastas e arquivos:
