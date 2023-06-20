@@ -7,7 +7,7 @@
 1 - Clone o repositório do exercício
 - Use o comando: 
 `
- git clone git@github.com:gBatiista/esquenta-trybewallet.git
+ git clone git@github.com:caren1994/Post-List.git
 `
 
 2 - Instale as dependências
